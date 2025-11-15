@@ -1,0 +1,12 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 218 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.45.244:3000/
+4:06:40 PM [vite] Pre-transform error: Failed to resolve import "react-markdown" from "src/components/AgentChatModal.jsx". Does the file exist?
+4:06:40 PM [vite] ✨ new dependencies optimized: lucide-react, @splinetool/react-spline
+4:06:40 PM [vite] ✨ optimized dependencies changed. reloading
